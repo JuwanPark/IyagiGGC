@@ -1,10 +1,8 @@
 @font-face{
   font-family:"IyagiGGC";
-  src:url("./IyagiGGC.eot?v=2.0.1");
-  src:url("./IyagiGGC.eot?v=2.0.1#iefix") format("embedded-opentype"),
-      url("./IyagiGGC.ttf?v=2.0.1") format("truetype"),
-      url("./IyagiGGC.woff?v=2.0.1") format("woff"),
-      url("./IyagiGGC.svg?v=2.0.1#Ionicons") format("svg");
+  src:url("./IyagiGGC.ttf") format("truetype"),
+      url("./IyagiGGC.woff") format("woff"),
+      url("./IyagiGGC.svg") format("svg");
   font-weight:normal;
   font-style:normal;
 }
