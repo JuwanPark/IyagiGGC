@@ -1,7 +1,6 @@
 @font-face {
   font-family: 'IyagiGGC';
-  src: url('./IyagiGGC.woff?v=2.0.1') format('woff'),
-       url('./IyagiGGC.ttf?v=2.0.1') format('truetype');
+  src: url('./IyagiGGC.woff?v=2.0.1') format('woff');
   font-weight: normal;
   font-style: normal;
 }
